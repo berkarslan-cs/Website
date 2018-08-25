@@ -1,3 +1,3 @@
 # BSigner
 
-[![Build status](https://berkarslan.visualstudio.com/Signing/_apis/build/status/BSigner%20CI%20-%20Core)](https://berkarslan.visualstudio.com/Signing/_build/latest?definitionId=1)
+BSigner is a closed source commercial project which includes browser independent smart card digital signing solutions for PADES, CADES, XADES and their signing types (BES, T, X-Long etc.). The project includes a Desktop Client for Windows, a .NET API library and a JS API to support the signing operations in a fast and secure way. You can get more info about it through https://www.bsigner.com
